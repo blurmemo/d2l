@@ -1,0 +1,13 @@
+d2l-note/chap03-线性神经网络 filter=lfs diff=lfs merge=lfs -text
+d2l-note/chap04-多层感知机 filter=lfs diff=lfs merge=lfs -text
+d2l-note/chap10-注意力机制 filter=lfs diff=lfs merge=lfs -text
+d2l-note/chap07-现代卷积神经网络 filter=lfs diff=lfs merge=lfs -text
+d2l-note/chap08-循环神经网络 filter=lfs diff=lfs merge=lfs -text
+d2l-note/chap09-现代循环神经网络 filter=lfs diff=lfs merge=lfs -text
+d2l-note/chap12-计算性能 filter=lfs diff=lfs merge=lfs -text
+d2l-note/chap13-计算机视觉 filter=lfs diff=lfs merge=lfs -text
+d2l-note/chap02-预备知识 filter=lfs diff=lfs merge=lfs -text
+d2l-note/chap05-深度学习计算 filter=lfs diff=lfs merge=lfs -text
+d2l-note/chap06-卷积神经网络 filter=lfs diff=lfs merge=lfs -text
+d2l-note/chap14-自然语言处理：预训练 filter=lfs diff=lfs merge=lfs -text
+d2l-note/chap15-自然语言处理：应用 filter=lfs diff=lfs merge=lfs -text
